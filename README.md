@@ -1,10 +1,10 @@
 # Real-Time Credit Card Fraud Detection Dashboard
 
-Hey there! 👋 This is a full-stack machine learning project I built to move beyond basic static batch models (like simple churn prediction notebooks) and work on real-time streaming ML architecture.
+Hey there! This is a full-stack machine learning project I built to move beyond basic static batch models (like simple churn prediction notebooks) and work on real-time streaming ML architecture.
 
 It simulates a live stream of financial transactions over WebSockets, feeds them through a trained LightGBM model in FastAPI, computes SHAP (SHapley Additive exPlanations) values on the fly to explain why a transaction was flagged, and visualizes the risk metrics in a custom React dashboard.
 
-## 🚀 Features
+## Features
 
 1. Streaming WebSockets Pipeline: Simulates incoming transaction telemetry every 1.5s using FastAPI async WebSockets.
 
@@ -31,7 +31,7 @@ It simulates a live stream of financial transactions over WebSockets, feeds them
 - JavaScript
 - Recharts
 
-### 📂 Project Structure
+### Project Structure
 ```
 fraud-detection-app/
 ├── backend/
