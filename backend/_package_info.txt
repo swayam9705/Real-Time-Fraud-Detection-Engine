@@ -1,0 +1,8 @@
+treeinterpreter -> a python package that explains the predictions made by
+scikit-learn decision trees.
+
+shap -> (SHapley Additive exPlanations) is a popular explainable AI used to
+debug machine learning models.
+
+lightgbm -> Light Gradient Boosting Machine uses decision-tree-based gradient
+boosting. It is designed specifically for speed and low memory usage.
