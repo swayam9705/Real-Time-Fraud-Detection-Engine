@@ -1,0 +1,27 @@
+:root {
+    /* Minimal Black & White Theme */
+    --bg-primary: #f3f3f1;
+    --bg-surface: #ffffff;
+    --bg-surface-alt: #efefed;
+    --bg-surface-border: #d7d7d3;
+    
+    /* Typography */
+    --color-text-main: #111111;
+    --color-text-muted: #5f5f5b;
+    --color-text-soft: #8b8b87;
+
+    /* Status & Badge Tokens */
+    --badge-dark-bg: #111111;
+    --badge-dark-text: #ffffff;
+    --badge-light-bg: #ffffff;
+    --badge-light-text: #111111;
+    --badge-light-border: #d1d1ce;
+
+    /* Layout Tokens */
+    --radius-lg: 18px;
+    --radius-full: 9999px;
+    --spacing-sm: 8px;
+    --spacing-md: 16px;
+    --spacing-lg: 24px;
+    --shadow-soft: 0 18px 40px rgba(17, 17, 17, 0.06);
+}
